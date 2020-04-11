@@ -1,0 +1,76 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.no {
+  color: orange;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+.winner {
+  color: orange;s
+}
+
+.info {
+  font-size: 1.5rem;
+  margin-top: -20px;
+}
+
+a {
+  color: orange;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #aeaeaf;
+}
+
+body {
+  background-color: #e6e9ef;
+  font-weight: bold;
+}
+
+h1 {
+  margin: 80px 25px 25px 25px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  text-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+  font-size: 6rem;
+  color: #aeaeaf;
+}
+
+p {
+  font-size: 3rem;
+  color: #aeaeaf;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+}
+
+img {
+  width: 250px;
+  margin: 30px;
+  border-radius: 15px;
+  box-shadow:
+    12px 12px 16px 0 rgba(0, 0, 0, 0.1),
+    -8px -8px 12px 0 rgba(255, 255, 255, 0.5);
+}
+
+footer {
+  margin-top: 5%;
+  color: #aeaeaf;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+
+}
